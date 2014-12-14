@@ -1,4 +1,4 @@
-DungeonCrawler
+Welcome to the Infamous Dungeon Crawler
 ==============
 
-DungeonCrawler
+Random heroes explore a random dungeon... will they survive?
